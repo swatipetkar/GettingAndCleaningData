@@ -1,4 +1,4 @@
-runAnalysis = function()
+run_analysis = function()
 {
 dirPath <- "./UCI HAR Dataset/"
 ##Merges the training and the test sets to create one data set.
